@@ -1,6 +1,6 @@
 # Activitatea unui post TV
 ## Descriere
-Aplicatie creata in java cu interfata grafica folosind tehnologia swing, realinzd conectarea la o baza de date access.
+Aplicatie creata in java cu interfata grafica folosind tehnologia swing, realizand conectarea la o baza de date access.
 
 ## Arhitectura
 Java + swing + UCanAccess ( pentru conectarea la baza de date access).
